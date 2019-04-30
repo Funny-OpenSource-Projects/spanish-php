@@ -1,8 +1,8 @@
 # Spanish PHP
 
-This is the github mirror of the official PHP with internal modifications to build a custom spanish PHP
+This is the github mirror of the official PHP with internal modifications to build a custom spanish PHP (source code obtained from https://github.com/php/php-src)
  
-_Este es una copia del repositorio oficial de PHP con modificaciones internas para construir una version personalizada en español de PHP._
+_Este es una copia del repositorio oficial de PHP con modificaciones internas para construir una version personalizada en español de PHP._ (Codigo fuente obtenido de https://github.com/php/php-src)
 
 **Fibonacci Script**
 
