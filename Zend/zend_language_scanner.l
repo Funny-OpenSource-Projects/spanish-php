@@ -1349,6 +1349,10 @@ NEWLINE ("\r"|"\n"|"\r\n")
 	RETURN_TOKEN(T_ELSEIF);
 }
 
+<ST_IN_SCRIPTING>"osi" {
+	RETURN_TOKEN(T_ELSEIF);
+}
+
 <ST_IN_SCRIPTING>"endif" {
 	RETURN_TOKEN(T_ENDIF);
 }
